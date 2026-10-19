@@ -1,0 +1,42 @@
+Disease,Description,Precautions,Common_Medicines,Specialist
+Fungal infection,"A fungal infection affecting the skin, nails, or hair.",Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Clotrimazole, Terbinafine",Dermatologist
+Allergy,An immune response to normally harmless substances.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Cetirizine, Loratadine",Allergist
+GERD,Acid reflux causing stomach acid to flow into the esophagus.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Omeprazole, Pantoprazole",Gastroenterologist
+Chronic cholestasis,Reduced or blocked flow of bile from the liver.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Ursodeoxycholic acid,Hepatologist
+Drug Reaction,An unwanted reaction caused by a medication.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Consult physician; antihistamines if appropriate,General Physician
+Peptic ulcer disease,Sores in the stomach or upper intestine.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Omeprazole, Pantoprazole",Gastroenterologist
+AIDS,Advanced HIV infection affecting the immune system.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Antiretroviral therapy (ART),Infectious Disease Specialist
+Diabetes,A condition causing high blood sugar levels.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Metformin, Insulin (if prescribed)",Endocrinologist
+Gastroenteritis,Inflammation of the stomach and intestines.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"ORS, Zinc",General Physician
+Bronchial Asthma,Chronic inflammation causing narrowing of airways.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Salbutamol inhaler,Pulmonologist
+Hypertension,Persistently high blood pressure.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Amlodipine (if prescribed),Cardiologist
+Migraine,A neurological condition causing severe headaches.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Paracetamol, Sumatriptan",Neurologist
+Cervical spondylosis,Age-related wear of the neck spine.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Pain relievers, Physiotherapy",Orthopedic Specialist
+Paralysis (brain hemorrhage),Loss of movement due to bleeding in the brain.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Emergency hospital treatment,Neurologist
+Jaundice,Yellowing of skin due to excess bilirubin.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Depends on cause,Gastroenterologist
+Malaria,Mosquito-borne disease caused by Plasmodium parasites.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Antimalarial medicines,General Physician
+Chicken pox,A contagious viral infection causing itchy blisters.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Calamine lotion, Paracetamol",General Physician
+Dengue,Mosquito-borne viral fever.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Paracetamol, ORS",General Physician
+Typhoid,Bacterial infection caused by Salmonella Typhi.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Appropriate antibiotics,General Physician
+Hepatitis A,Viral liver infection spread through contaminated food or water.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Supportive care,Hepatologist
+Hepatitis B,Viral liver infection spread through blood and body fluids.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Antivirals if prescribed,Hepatologist
+Hepatitis C,Viral liver infection commonly spread through blood.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Direct-acting antivirals,Hepatologist
+Hepatitis D,Liver infection occurring with hepatitis B.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Supportive treatment,Hepatologist
+Hepatitis E,Water-borne viral liver infection.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Supportive care,Hepatologist
+Alcoholic hepatitis,Liver inflammation due to excessive alcohol use.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Medical supervision,Hepatologist
+Tuberculosis,Bacterial infection mainly affecting the lungs.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Anti-TB therapy,Pulmonologist
+Common Cold,A mild viral infection of the upper respiratory tract.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Paracetamol, Steam inhalation",General Physician
+Pneumonia,Infection causing inflammation of the lungs.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Antibiotics if bacterial,Pulmonologist
+Dimorphic hemorrhoids(piles),Swollen veins in the rectum or anus.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Fiber supplements, Stool softeners",General Surgeon
+Heart attack,Blocked blood flow damaging heart muscle.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Emergency treatment,Cardiologist
+Varicose veins,"Enlarged twisted veins, usually in the legs.",Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Compression stockings,Vascular Surgeon
+Hypothyroidism,Underactive thyroid gland.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Levothyroxine,Endocrinologist
+Hyperthyroidism,Overactive thyroid gland.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Antithyroid medicines,Endocrinologist
+Hypoglycemia,Abnormally low blood sugar.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Glucose tablets or juice,Endocrinologist
+Osteoarthritis,Degeneration of joint cartilage.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,"Paracetamol, Physiotherapy",Orthopedic Specialist
+Arthritis,Inflammation of one or more joints.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,NSAIDs if prescribed,Rheumatologist
+Vertigo (Paroxysmal Positional Vertigo),A balance disorder causing spinning sensation.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Vestibular exercises,ENT Specialist
+Acne,Inflammatory skin condition affecting hair follicles.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Benzoyl peroxide,Dermatologist
+Urinary tract infection,Bacterial infection of the urinary tract.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Appropriate antibiotics,Urologist
+Psoriasis,Autoimmune skin disease causing scaly patches.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Topical corticosteroids,Dermatologist
+Impetigo,Highly contagious bacterial skin infection.,Stay hydrated; Eat a balanced diet; Get adequate rest; Consult a doctor if symptoms worsen,Mupirocin ointment,Dermatologist
